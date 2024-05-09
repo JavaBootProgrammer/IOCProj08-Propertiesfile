@@ -9,4 +9,5 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource("com/nt/commons/Info.properties")
 public class AppConfig {
 
+
 }
